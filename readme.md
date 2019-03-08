@@ -6,7 +6,7 @@ removed when data have same urls
 
 removed when height or width of the box is less than 32
 
-removed when images are same (851514697.png == 851514698.png)
+removed when images are same (851514697 == 851514698)
 
 # Patterns
 - 0: plain, 8255
