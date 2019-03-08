@@ -1,5 +1,7 @@
 # Categorization Dress Patterns
 
+original data can be found "https://data.world/crowdflower/categorization-dress-patterns"
+
 removed when data have same urls
 
 removed when height or width of the box is less than 32
