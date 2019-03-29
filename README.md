@@ -12,9 +12,9 @@ validation dataset contains randomly selected 1/10 items for each class
 
 
 # Data
-- patterns.txt: all data
-- train.txt: training dataset
-- valid.txt: validation dataset
+- ```patterns.txt```: all data
+- ```train.txt```: training dataset
+- ```valid.txt```: validation dataset
 
 
 # Patterns
