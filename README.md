@@ -18,22 +18,25 @@ validation dataset contains randomly selected 1/10 items for each class
 
 
 # Patterns
-- 0: plain, 8255
-- 1: floral, 2705
-- 2: stripes, 696
-- 3: polka dot, 630
-- 4: tribal, 499
-- 5: squares, 429
-- 6: ikat, 343
-- 7: animal, 339
-- 8: geometry, 335
-- 9: cartoon, 252
-- 10: scales, 107
-- 11: chevron, 93
-- 12: letter_numb, 80
-- 13: houndstooth, 66
-- 14: stars, 43
-- 15: skull, 19
-- 16: OTHER, 500
 
-total: 15391
+__total__: 15391
+
+| val | name | count |
+|:---:| ---- |:-----:|
+| 0  | plain  | 8255 |
+| 1  | floral | 2705 |
+| 2  | stripes | 696 |
+| 3  | polka dot | 630 |
+| 4  | tribal | 499 |
+| 5  | squares | 429 |
+| 6  | ikat | 343 |
+| 7  | animal | 339 |
+| 8  | geometry | 335 |
+| 9  | cartoon | 252 |
+| 10 | scales | 107 |
+| 11 | chevron | 93 |
+| 12 | letter_numb | 80 |
+| 13 | houndstooth | 66 |
+| 14 | stars | 43 |
+| 15 | skull | 19 |
+| 16 | OTHER | 500 |
