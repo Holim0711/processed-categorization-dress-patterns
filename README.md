@@ -8,6 +8,15 @@ removed when height or width of the box is less than 32
 
 removed when images are same (851514697 == 851514698)
 
+validation dataset contains randomly selected 1/10 items for each class
+
+
+# Data
+- patterns.txt: all data
+- train.txt: training dataset
+- valid.txt: validation dataset
+
+
 # Patterns
 - 0: plain, 8255
 - 1: floral, 2705
@@ -19,12 +28,12 @@ removed when images are same (851514697 == 851514698)
 - 7: animal, 339
 - 8: geometry, 335
 - 9: cartoon, 252
-- a: scales, 107
-- b: chevron, 93
-- c: letter_numb, 80
-- d: houndstooth, 66
-- e: stars, 43
-- f: skull, 19
-- -: OTHER, 500
+- 10: scales, 107
+- 11: chevron, 93
+- 12: letter_numb, 80
+- 13: houndstooth, 66
+- 14: stars, 43
+- 15: skull, 19
+- 16: OTHER, 500
 
 total: 15391
